@@ -10,5 +10,5 @@ for i in range(10):
     print('test: %.d' % i)
     print('again')
 
-print('how are you today?')
+print('how are you today? Or we want to do it again?')
 
